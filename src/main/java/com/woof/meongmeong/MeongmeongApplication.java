@@ -12,6 +12,10 @@ public class MeongmeongApplication {
         SpringApplication.run(MeongmeongApplication.class, args);
 
         //승호야안뇽 ㅋ ㅋ ㅋ
+
+       //재연 헬롱
+
+
     }
 
 }
